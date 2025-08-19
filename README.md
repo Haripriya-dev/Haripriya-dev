@@ -26,7 +26,7 @@ With expertise in **data manipulation, statistical analysis, and visualization**
 ## 🛠 Skills & Tools
 
 - **Languages & Queries:** SQL, Python (Fundamentals, Pandas, NumPy)  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Data Visualization:** Power BI  
 - **Data Handling:** Excel (Advanced Functions, Pivot Tables, Data Cleaning)  
 - **Statistics:** Descriptive & Inferential Statistics, Probability Distributions  
 - **Analytics Mindset:** Problem-solving frameworks, business storytelling  
