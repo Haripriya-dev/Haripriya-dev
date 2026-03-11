@@ -37,7 +37,7 @@ With expertise in **data manipulation, statistical analysis, and visualization**
 
 | Project Name | Description | Tools |
 |--------------|-------------|-------|
-| **JustLoan Excel Mini Project** | Financial dataset analysis, loan performance tracking, and business KPI reporting. | Excel |
+| **JustLoan Excel Mini Project** | Interactive Excel dashboard analyzing loan applications, credit risk, and borrower behavior using Pivot Tables and dynamic slicers. | Excel |
 | **AirlineDB SQL Capstone** | Insights on aircraft types, revenue segmentation, customer demographics, and operational metrics. | SQL |
 | **ShopNest Store Power BI Capstone** | Comprehensive e-commerce analytics dashboard for sales, product trends, payment modes, and seasonal demand patterns. | Power BI, SQL |
 | **Python Capstone Project** | Created dataframes for employees and seniority, performed joins, aggregations, and achieved 100% accuracy in results. | Python, Pandas |
